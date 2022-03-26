@@ -1,7 +1,7 @@
 * [ ] README.md  
   * [ ] VAR Description  
   * [ ] Var Date  
-  * [ ] VAR Repository Name  
+  * [x] VAR Repository Name  
   * [ ] Other  
   
 * [ ] .gitignore  
