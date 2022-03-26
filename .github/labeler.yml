@@ -5,3 +5,7 @@ critical:
 # Add/remove 'waiting' label if issue contains the word 'waiting'
 waiting:
     - 'waiting'
+
+# Add/remove 'documentation' label if pull request updates a file that has the extension '.md'
+documentation:
+    - '*.md'
