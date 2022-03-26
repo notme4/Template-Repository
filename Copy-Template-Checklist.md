@@ -15,13 +15,13 @@
   
 * [ ] Labels  
   * [ ] Waiting &nbsp; &nbsp; &nbsp; color=#F75496  
-  * [ ] Critical &nbsp; &nbsp; &nbsp; color=#FC0B03  
+  * [ ] Critical &nbsp; &nbsp;&nbsp; &nbsp; color=#FC0B03  
   * [ ] Other  
 
 * [ ] Workflows  
   * [ ] Issue Labeler  
   * [ ] Pull Labeler  
-  * [ ] Labeler &nbsp; &nbsp;&nbsp; &nbsp; path=/.github/  
+  * [ ] Labeler &nbsp; &nbsp; &nbsp; &nbsp; path=/.github/  
   * [ ] Other  
   
 * [ ] Other  
