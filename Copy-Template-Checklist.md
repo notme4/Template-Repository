@@ -14,14 +14,14 @@
   * [ ] Other Files to Ignore  
   
 * [ ] Labels  
-  * [ ] Waiting   color=#F75496  
-  * [ ] Critical  color=#FC0B03  
+  * [ ] Waiting &nbsp; &nbsp; &nbsp; color=#F75496  
+  * [ ] Critical &nbsp;&nbsp; &nbsp; color=#FC0B03  
   * [ ] Other  
 
 * [ ] Workflows  
   * [ ] Issue Labeler  
   * [ ] Pull Labeler  
-  * [ ] Labeler   path=/.github/  
+  * [ ] Labeler &nbsp; &nbsp; &nbsp; path=/.github/  
   * [ ] Other  
   
 * [ ] Other  
