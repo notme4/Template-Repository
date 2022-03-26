@@ -1,4 +1,4 @@
-# Template-Repository
+# VAR (Template-Repository)
 
 > Description:  VAR (Repository Template for my projects to make setup easier)
 > Author:       notme4
