@@ -16,7 +16,7 @@
 * [ ] Labels  
   * [ ] Waiting &nbsp; &nbsp; &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; color=#F75496  
   * [ ] Critical &nbsp; &nbsp;&nbsp; &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; color=#FC0B03  
-  * [ ] Back Burner &nbsp; &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; color=#D93F0B
+  * [ ] Back Burner &nbsp;&nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; color=#D93F0B
   * [ ] Other  
 
 * [ ] Workflows  
